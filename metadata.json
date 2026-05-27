@@ -1,0 +1,6 @@
+{
+  "name": "Music Player and Snake Game",
+  "description": "A retro-future dark neon arcade experience featuring a fully playable snake game integrated with a procedural synthesizer music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
